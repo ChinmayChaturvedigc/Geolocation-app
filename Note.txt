@@ -1,0 +1,10 @@
+
+-------------HOW TO USE --------------
+
+1. Enable the location on your browser. 
+2. Click the area you want to start your workout.
+3. Then fill all related fields either running or walking.
+4. Then hit the enter, to save the workout.
+5. It will be in your local storage and show whenever you open it.
+
+------------ENJOY THE APP---------
